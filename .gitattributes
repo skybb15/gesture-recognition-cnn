@@ -1,0 +1,13 @@
+* text=auto eol=lf
+
+*.png  binary
+*.jpg  binary
+*.doc  binary
+*.docx binary
+*.pptx binary
+*.pdf  binary
+*.h5   binary
+*.mp4  binary
+*.pth  binary
+*.pkl  binary
+*.csv  text eol=lf
